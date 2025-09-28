@@ -1,8 +1,5 @@
 #Exercicio 1 - Contador
 #Crie uma função que peça um número N e conte de 1 até N.
-#Use for para imprimir os números.
-#Use uma variável para guardar o número informado.
-#Se o número for menor que 1, mostre uma mensagem de erro.
 
 def contador():
     try:
